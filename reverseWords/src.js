@@ -4,8 +4,7 @@
 // Example 1:
 // Input: "Let's take LeetCode contest"
 // Output: "s'teL ekat edoCteeL tsetnoc"
-// Note: In the string, each word is separated by single space and there will not be 
-//any extra space in the string.
+// Note: In the string, each word is separated by single space and there will not be any extra space in the string.
 
 
 var reverseWords = function(s) {
